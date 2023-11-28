@@ -5,7 +5,7 @@ I have worked on projects from Machine Learning to Numerical Analysis.
 
 <details>
 <summary>
-  Machine Learning
+  Machine Learning👇
 </summary>
   <li>🪟 Glass Manufacture: Digitalising processes in float glass manufacturing to forcast product quality.</li>
   <li>📈 Signal Processing: Robust Gaussian process regression for estimating the Nitrogen Dioxide concentration from low-cost sensor signals.
@@ -14,7 +14,7 @@ I have worked on projects from Machine Learning to Numerical Analysis.
 </details>
 
 <details>
-<summary>Simulation</summary>
+<summary>Simulation👇</summary>
 <li>:ocean: Hydraulics: System Dynamics for the hydraulic system of carbon dioxide removal technologies.</li>
 </details>
 
