@@ -33,5 +33,5 @@ I have worked on projects from Machine Learning to Numerical Analysis.
 </p>
 <h3 align="left">Publications:</h3>
 <p align="left">
-<a href="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google/google" target="blank"><img align="center" src="https://commons.wikimedia.org/wiki/File:Google_Scholar_logo.svg" alt="diego-e-rios" height="30" width="40" /></a>
+<a href="https://scholar.google.com/citations?user=N7G1NTYAAAAJ&hl=en&oi=ao" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/google/google-plain.svg" alt="diego-e-rios" height="30" width="40" /></a>
 </p>
