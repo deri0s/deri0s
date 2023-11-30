@@ -8,7 +8,7 @@ I have worked on projects from Machine Learning to Numerical Analysis.
   Machine Learning👇
 </summary>
   <li>🪟 Glass Manufacture: Digitalising processes in float glass manufacturing to forcast product quality.</li>
-  <li>📈 Signal Processing: Robust Gaussian process regression for estimating the Nitrogen Dioxide concentration from low-cost sensor signals.
+  <li>📈 Signal Processing: Robust Gaussian process regression for estimating the Nitrogen Dioxide concentrations from low-cost sensor signals.
 </li>
   <li>✈️ Emulation: Machine Learning surrogate of a Finite Element model of aircraft structures</li>
 </details>
